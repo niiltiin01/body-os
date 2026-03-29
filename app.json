@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Body OS",
+    "slug": "body-os",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "bodyos",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#060606",
+    "splash": { "backgroundColor": "#060606" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.bodyos.app" },
+    "android": { "adaptiveIcon": { "backgroundColor": "#060606" }, "package": "com.bodyos.app" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
